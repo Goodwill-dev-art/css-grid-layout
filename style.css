@@ -112,7 +112,7 @@ main {
     object-fit: cover;
   }
   .left {
-    width: 100%;
+    max-width: 400px;
     /* padding: 0%; */
     box-sizing: border-box;
   }
